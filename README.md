@@ -18,7 +18,10 @@ and knowledge of basic concepts such as variables, commands, syntax, etc.
 ### Subjects
 
 - conditions
-- [loops](loops.md)
+- loops
+  - [stars](loops-stars.md)
+  - numbers
+  - drawing
 - functions
 - string manipulation
-- $\color[gray]{0.3} regex$
+- regex

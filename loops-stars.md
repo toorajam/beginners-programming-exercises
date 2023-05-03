@@ -3,7 +3,9 @@
 * These exercises are designed to practice coding with loops.
 * Keep the order of the exercises. The first one is the simplest, and the hardest is the last one.
 * Your task is to write a body for each exercise function to print the desired output.
-* Try not to use sibling loops.
+* Programming language does not matter. Change the function syntax into your language syntax but keep the inputs.
+* Try not to use sibling loops. Sibling loops means loop after another loop.
+* You can use nested loops. Nested loops means loop inside another loop.
 * Do not change the number of inputs.
 * Do not use the programming language's prepared functions.
 * Do not forget to test your code with special inputs like 0, 1, 2, and a large number.
@@ -789,17 +791,19 @@ function ex27(r) {
 ### Output:
 
 ```
-********************************
+************************************
+*************************
 ****************
-********
+*********
 ****
-**
 *
-**
+ 
+*
 ****
-********
+*********
 ****************
-********************************
+*************************
+************************************
 ```
 
 ### Notes:
@@ -807,7 +811,7 @@ function ex27(r) {
 - r is always an odd number.
 - r is total number of rows.
 - There is no space character between two stars in a row.
-- The shape is parabolic chart (x = y ^ 2).
+- The shape is parabolic diagram (x = y ^ 2).
 
 ***
 
