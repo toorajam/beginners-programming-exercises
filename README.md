@@ -17,7 +17,7 @@ and knowledge of basic concepts such as variables, commands, syntax, etc.
 
 ### Subjects
 
-- conditions
+- [conditions](conditions.md)
 - loops
   - [stars](loops-stars.md)
   - numbers
