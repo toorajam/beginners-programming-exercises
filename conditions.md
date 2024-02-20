@@ -2,11 +2,9 @@
 
 * These exercises are designed to practice coding with conditions.
 * Keep the order of the exercises. The first one is the simplest, and the hardest is the last one.
-* Your task is to write a body for each exercise to print the desired output.
-* Programming language does not matter. Change the function syntax into your language syntax but keep the inputs.
-* Do not change the number of inputs.
+* Your task is to write a code for each exercise to print the desired output.
 * Do not use the programming language's prepared functions.
-* Do not forget to test your code with special inputs like 0, 1, 2, and a large number.
+* Do not forget! keep the final result in a variable.
 
 ## Prerequisites
 * variables 
@@ -274,6 +272,30 @@ var num = 78;
 
 ### Sample Outputs:
 `` seventy eight ``
+
+### Notes:
+- Do not forget! keep the final result in a variable.
+
+***
+
+## Exercise 17
+Write a program to convert the given positive number which less than and equal 999 into words.
+
+### Signature:
+```javascript
+var num = 478;
+
+// your code
+```
+
+### Sample Outputs:
+`` four hundred and seventy eight `` 
+
+`` چهارصد و هفتاد و هشت ``
+
+### Notes:
+- Firstly, try in your language.
+- Do not forget! keep the final result in a variable. 
 
 ***
 
